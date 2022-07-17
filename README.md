@@ -5,5 +5,5 @@
 
 - Javascript, Php
 
-- Atualmente estudando Rust
+- Atualmente estudando Typescript
 
